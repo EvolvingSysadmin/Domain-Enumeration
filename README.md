@@ -10,3 +10,5 @@ This repository contains instructions on the use of Python tools for Domain Enum
 
 ## Licensing
 - The information in this repository is offered for free through an [MIT License](./LICENSE).
+
+ ![Python Powered](/python-powered.png)
