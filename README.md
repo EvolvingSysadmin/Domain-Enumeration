@@ -10,6 +10,6 @@ This repository contains instructions on the use of Python tools for Domain Enum
 - [Get HTTP Links](/docs/Get-HTTP-Links.md)
 
 ## Licensing
-- The information in this repository is offered for free through an [MIT License](./LICENSE).
+- The programs and information in this repository is offered for free through an [MIT License](./LICENSE).
 
  ![Python Powered](./python-powered.png)
