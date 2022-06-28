@@ -1,5 +1,7 @@
 # Get HTTP Links
 
+This page describes how to use the `http-scanner.py` Python program to enumerate website links.
+
 ## Table of Contents
 - [Background](#background)
 - [Use Case](#use-case)
@@ -9,7 +11,13 @@
 
 ## Background
 
+The `http-scanner.py` Python program crawls website pages to return the internal and external links on that website. `http-scanner.py` automates website link extraction. `http-scanner.py` can be incorporated into other Python programs. Similarly, Python features such as defined variables, defined functions, and loops can be used to obtain website link information.
+
 ## Use Case
+
+The `http-scanner.py` program should be used when the links of a website need to be enumerated. Enumerating website links can enable users to identify unknown webpages or malicious links. Only
+
+Only run `http-scanner.py` against websites that have given express permission to do so. Running the http link scanning tool against websites without permission will likely break the terms of service for that website.
 
 ## Prerequisites
 

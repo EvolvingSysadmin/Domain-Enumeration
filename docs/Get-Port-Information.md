@@ -26,7 +26,7 @@ SYN scanning is a method for utilizing the TCP three-way handshake to determine 
 
 Use Scapy to determine the port communications information of a given domain or IP address. Obtaining communications port information can help determine which services are being run from a domain or IP address. Enunmerating a domain's services helps to assess the security of those services.
 
-Only run Scapy against IP addresses that have given express permission to do so. Running the domain enumeration tool against websites without permission will likely break the terms of service for that domain.
+Only run Scapy against IP addresses that have given express permission to do so. Running Scapy against websites without permission will likely break the terms of service for that domain.
 
 ## Prerequisites
 
