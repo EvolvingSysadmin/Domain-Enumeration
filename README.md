@@ -1,4 +1,4 @@
-# Domain-Enumeration
+# Python Domain Enumeration
 This repository contains instructions on the use of Python tools for Domain Enumeration.
 
 ## Topics
@@ -9,3 +9,4 @@ This repository contains instructions on the use of Python tools for Domain Enum
 - [Get HTTP Links](./docs/Get-HTTP-Links.md)
 
 ## Licensing
+- The information in this repository is offered for free through an [MIT License](./LICENSE).
