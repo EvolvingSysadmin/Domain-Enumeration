@@ -15,6 +15,6 @@ Domain enumeration is the process of identifying information about a root domain
 
 There are many advantages to using Python for domain enumeration. There are many extensible Python libraries that can be used in conjunction with Python domain enumeration tools. Using Python tools for domain enumeration also enables users to define variables, functions, and use loops.
 
-## Who should use Python for Doamain Enumeration?
+## Who should use Python for Domain Enumeration?
 
-Python domain enumeration should be used by security professionals and researchers seeking to bolster information security. Obtaining domain information can enable users to identify misconfigured services or previously unknown HTTP pages or subdomains. This information can then be used to reconfiguring a domain to bolster security.
+Python domain enumeration should be used by security professionals and researchers seeking to bolster information security. Obtaining domain information can enable users to identify misconfigured services or previously unknown HTTP pages or subdomains. This information can then be used to reconfigure a domain to bolster security.

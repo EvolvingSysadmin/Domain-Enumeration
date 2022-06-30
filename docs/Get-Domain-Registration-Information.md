@@ -19,7 +19,7 @@ This page describes how to obtain domain information by using the WHOIS Python l
 
 ## Background
 
-WHOIS is an Internet protocol for retrieving a record of domain name registration information. The [Python WHOIS package](https://pypi.org/project/python-whois/) uses Python to query and parse domain registration information. The registration information that can be obtained using the WHOIS Python library includes whether the domain is registered, the domain registrar, domain creation date, domain expiration date, and address of the domain owner.
+WHOIS is an Internet protocol for retrieving a record of domain name registration information. The [Python WHOIS package](https://pypi.org/project/python-whois/) uses Python to query and parse domain registration information. The registration information that can be obtained using the WHOIS Python library includes whether the domain is registered, the domain registrar, the domain creation date, the domain expiration date, and the address of the domain owner.
 
 ## Use Case
 
