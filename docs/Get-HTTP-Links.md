@@ -15,7 +15,7 @@ The `http-scanner.py` Python program crawls website pages to return the internal
 
 ## Use Case
 
-The `http-scanner.py` program should be used when the links of a website need to be enumerated. Enumerating website links can enable users to identify unknown webpages or malicious links. Only
+The `http-scanner.py` program should be used when the links of a website need to be enumerated. Enumerating website links can enable users to identify unknown webpages or malicious links.
 
 Only run `http-scanner.py` against websites that have given express permission to do so. Running the http link scanning tool against websites without permission will likely break the terms of service for that website.
 

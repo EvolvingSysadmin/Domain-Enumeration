@@ -16,7 +16,7 @@ This page describes how to obtain port information of a target IP address by usi
 
 ### What is Scapy?
 
-Scapy is a Python program that allows users to create, send, sniff, and dissect network packets. The Python programming language can be used to interract directtly with Scapy. For example, Scapy can be used in conjunction with user defined varibales, functions, and loops. Scapy can create and analyze packets of many protocols, including UDP and TCP.
+Scapy is a Python program that allows users to create, send, sniff, and dissect network packets. The Python programming language can be used to interact directly with Scapy. For example, Scapy can be used in conjunction with user defined variabless, functions, and loops. Scapy can create and analyze packets of many protocols, including UDP and TCP.
 
 ### What is SYN scanning?
 
@@ -24,7 +24,7 @@ SYN scanning is a method for utilizing the TCP three-way handshake to determine 
 
 ## Use Case
 
-Use Scapy to determine the port communications information of a given domain or IP address. Obtaining communications port information can help determine which services are being run from a domain or IP address. Enunmerating a domain's services helps to assess the security of those services.
+Use Scapy to determine the port communications information of a given domain or IP address. Obtaining communications port information can help determine which services are being run from a domain or IP address. Enumerating a domain's services helps to assess the security of those services.
 
 Only run Scapy against IP addresses that have given express permission to do so. Running Scapy against websites without permission will likely break the terms of service for that domain.
 

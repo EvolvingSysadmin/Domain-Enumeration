@@ -16,7 +16,7 @@ The Domain Name System heirarchy structure allows a domain name to be broken dow
 
 ## Use Case
 
-Use the subdomain scanner to determine the subdomains for a given domain. Enumerating subdomains can be particularly useful for testing the security of a domain. Internet facing services are often hosted on subdomains; for instance `vpn.domain-name.com`. Enunerating subdomains can be an initial step for testing the security of those services. Only run the domain enumeration tool against domains that have given express permission to do so. Running the domain enumeration tool against websites without permission while likely break the terms of service of that domain.
+Use the subdomain scanner to determine the subdomains for a given domain. Enumerating subdomains can be particularly useful for testing the security of a domain. Internet facing services are often hosted on subdomains, for instance `vpn.domain-name.com`. Enumerating subdomains can be an initial step for testing the security of those services. Only run the domain enumeration tool against domains that have given express permission to do so. Running the domain enumeration tool against websites without permission will likely break the terms of service of that domain.
 
 ## Prerequisites
 
